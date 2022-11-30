@@ -49,7 +49,7 @@ spec:
       value: $(params.IMAGE)
     - name: CONTEXT
       value: $(params.CONTEXT)      
-    - name: tls-verify
+    - name: TLSVERIFY
       value: false
     workspaces:
     - name: source

@@ -9,9 +9,9 @@ spec:
   - name: deployment-name
     value: clouds-api
   - name: git-url
-    value: https://github.com/PacktPublishing/Openshift-Multi-Cluster-management.git
+    value: https://github.com/domenecsos/OpenShift-Multi-Cluster-Management-Handbook.git
   - name: IMAGE
-    value: image-registry.openshift-image-registry.svc:5000/pipelines-sample/clouds-api
+    value: 10.210.4.120:5000/pipelines-sample/clouds-api
   workspaces:
   - name: shared-workspace
     volumeClaimTemplate:

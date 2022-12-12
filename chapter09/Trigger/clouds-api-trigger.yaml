@@ -18,11 +18,3 @@ spec:
     - ref: clouds-api-tb
   template:
     ref: clouds-api-tt
----
-apiVersion: v1
-kind: Secret
-metadata:
-  name: github-secret
-type: Opaque
-stringData:
-  secretToken: "tekton"

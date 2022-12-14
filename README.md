@@ -4,6 +4,8 @@
 
 This is the code repository for [Openshift Multi-Cluster Management Handbook](https://www.packtpub.com/product/openshift-multi-cluster-management-handbook/9781803235288), published by Packt.
 
+Fork per proves de concepte.
+
 **Go from architecture to pipelines using GitOps**
 
 ## What is this book about?
